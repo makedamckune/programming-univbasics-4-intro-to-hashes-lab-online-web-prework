@@ -1,6 +1,6 @@
 def new_hash :{
 }
-  
+return"new_hash"
 end
 
 def my_hash :{ "Place" => "New York City", "Brooklyn" => "Borough"}
